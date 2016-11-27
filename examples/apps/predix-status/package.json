@@ -1,0 +1,11 @@
+{
+  "name": "predix_status",
+  "version": "1.0.0",
+  "description": "An Alexa app to check status of predix",
+  "main": "index.js",
+  "author": "Akshay Bagai",
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "got": "^v5.5.1"
+  }
+}
