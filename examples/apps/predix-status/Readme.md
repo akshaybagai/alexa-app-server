@@ -11,7 +11,7 @@ Alexa Skill to ask app status
 - Open Alexa Development console and start setting up the new skill. ![alt tag](https://github.com/akshaybagai/alexa-app-server/blob/master/examples/apps/predix-status/Screen%20Shot%202016-11-27%20at%203.07.56%20PM.png?raw=true)
 - Use Echoism to test the response. ![alt tag](https://github.com/akshaybagai/alexa-app-server/blob/master/examples/apps/predix-status/Screen%20Shot%202016-11-27%20at%203.10.43%20PM.png?raw=true)
 
-## Sample responses from lambda function
+## Sample response from lambda function
 
 ```sh
 {
